@@ -12,7 +12,7 @@
         <scala.version>2.11</scala.version>
         <scala.exact.version>${scala.version}.11</scala.exact.version>
         <tensorflow.version>1.15.0</tensorflow.version>
-        <guava.version>27.0-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.sourceEncoding>UTF-8</project.reporting.sourceEncoding>
         <scope>provided</scope>
